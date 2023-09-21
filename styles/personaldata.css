@@ -1,0 +1,18 @@
+.personaldata{
+    background-image: url(https://i.pinimg.com/originals/69/12/0f/69120f098bbad51079ed14884673b211.jpg);
+    background-size: cover;
+
+}
+.personaldata h1 {
+    font-size: 2em;
+    color:red;
+    border-width: 1px;
+    border-style: dashed;
+    border-color:gray ;
+    background-color: black;
+    background-color: blueviolet;
+
+
+    border:1px solid gray ;
+
+}
